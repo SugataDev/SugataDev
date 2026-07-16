@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUGATA CHAKMA</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-<!-- <p align="center">
-  <img src="https://komarev.com" alt="SugataDev" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://vercel.app" alt="SugataDev Trophies" />
-  </a>
-</p> -->
-
 ---
 
 ### 🚀 About Me
@@ -40,7 +30,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 
 #### ⚙️ Systems & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://shields.io)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  </a>
+</p>
 
 ---
 
