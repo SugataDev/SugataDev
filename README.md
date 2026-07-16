@@ -30,17 +30,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,ps" /><br>
     <img src="https://skillicons.dev/icons?i=ai,git,github,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,vscode,visualstudio,windows" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SugataDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Sugata's Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=SugataDev&theme=dark&hide_border=true" alt="Sugata's Streak" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SugataDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Sugata's Top Languages" />
 </p>
 
 ---
