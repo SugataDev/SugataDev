@@ -1,10 +1,13 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm SUGATA CHAKMA</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
----
-
 ### 🚀 About Me
 - 🌱 I’m currently learning the **MERN Stack Development**
+- 🤝 Open to Collaborations
 - 📧 How to reach me: **sugata.chakma20@gmail.com**
 
 ### 🤝 Connect with me:
