@@ -44,7 +44,7 @@
 #### ⚙️ Systems & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
   </a>
 </p>
 
