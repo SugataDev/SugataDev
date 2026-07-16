@@ -20,17 +20,22 @@
 
 ### 💻 Tech Stack
 
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,ps,ai,git,github,linux,windows" />
-  </a>
-</p> -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,ps" /><br>
     <img src="https://skillicons.dev/icons?i=ai,git,github,linux" /><br>
     <img src="https://skillicons.dev/icons?i=apple,vscode,visualstudio,windows" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SugataDev&theme=tokyo-night&bg_color=0D1117&color=9BE9A8&line=7CFC00&point=FFFFFF&area=true&hide_border=true" alt="SugataDev's GitHub Activity Graph" />
   </a>
 </p>
 
