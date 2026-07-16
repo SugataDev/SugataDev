@@ -41,6 +41,22 @@
 
 ---
 
+### 🧱 Breakout Contribution Graph
+
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/SugataDev/SugataDev/output/breakout-contribution-graph-dark.svg">
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/SugataDev/SugataDev/output/breakout-contribution-graph.svg">
+    <img
+        alt="Breakout contribution graph"
+        src="https://raw.githubusercontent.com/SugataDev/SugataDev/output/breakout-contribution-graph.svg">
+</picture>
+
+---
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
