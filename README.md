@@ -20,31 +20,16 @@
 
 ### 💻 Tech Stack
 
-#### 🌐 Frontend & Core Development
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,ps,ai,git,github,linux,windows" />
   </a>
-</p>
-
-#### 🎨 UI Frameworks & Styling
+</p> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-  </a>
-</p>
-
-#### 🖌️ Design & Creative Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  </a>
-</p>
-
-#### ⚙️ Systems & DevOps
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,git,github,linux" /><br>
   </a>
 </p>
 
