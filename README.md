@@ -10,7 +10,7 @@
 - 🤝 Open to Collaborations
 - 📧 How to reach me: **sugata.chakma20@gmail.com**
 
-### 🤝 Connect with me:
+### 🌐 Socials
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/sugata-chakma/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://discord.com/users/504370336721010699" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
@@ -19,6 +19,12 @@
 <a href="https://wa.link/4c0c02" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
+---
+### 🗞️ Blog posts
+<ul>
+<a href="https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i?preview=8417586c6f1981c99e23ce09a7ad5f666d83ac2425266ab4883219c9e915a1c42e076179841fa10afb8fa20ee92f03210edf62a76eaa2af03e9fb03f">🚀 Git Cheat Sheet Every Developer Should Bookmark</a>
+  </ul>
+  
 ---
 
 ### 💻 Tech Stack
