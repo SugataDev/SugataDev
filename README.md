@@ -39,16 +39,6 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SugataDev&theme=tokyo-night&bg_color=0D1117&color=9BE9A8&line=7CFC00&point=FFFFFF&area=true&hide_border=true" alt="SugataDev's GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
 ### 🧱 Breakout Contribution Graph
 
 <picture>
